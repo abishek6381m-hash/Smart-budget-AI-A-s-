@@ -1,0 +1,12 @@
+Pre-requisites – Smart AI Budget & Recommendation Assistant
+
+Pre-requisites are the essential tools, software, and knowledge required to develop and run the Smart AI Budget & Recommendation Assistant successfully.
+
+Programming Language: Python
+Development Environment: VS Code / Jupyter Notebook
+Libraries: Pandas, NumPy, Scikit-learn
+Database: MySQL or SQLite
+AI/ML Knowledge: Basic knowledge of machine learning and recommendation systems
+Web Development: Basic HTML, CSS, and Flask/Streamlit
+Data: User income, expenses, spending categories, and budget information
+System Requirements: Computer with internet connection and Python installed
